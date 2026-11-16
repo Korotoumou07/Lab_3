@@ -1,1 +1,2 @@
-# Lab_3
+# Lab_3 of KOTY
+KOTY
